@@ -1,5 +1,5 @@
 # Custom
-secrets.py
+secrets_store.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
